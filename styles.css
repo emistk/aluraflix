@@ -2,13 +2,14 @@ body {
     color: rgb(50, 141, 157);
     background: rgb(3, 198, 198);
     margin: 0px;
-    font-family: "Meow Script", cursive;
+    font-family: "La Belle Aurore", cursive;
 }
 header {
     border-bottom: solid 2px rgb(13, 91, 103);
     padding: 20px;
-    font-size: 32px;
+    font-size: 27px;
     color: rgb(2, 100, 97);
+     font-family: "Cinzel", serif;
 }
 
 
@@ -26,7 +27,8 @@ section{
 margin-right: 20px;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
+      font-family: "Great Vibes", cursive;
    
 }
 
